@@ -2,7 +2,7 @@
 @extends('layouts.app')
 @section('title', '首页')
 @section('content')
-    <!-- Modal -->
+   
     <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-fullscreen">
             <div class="modal-content">
@@ -23,7 +23,6 @@
         </div>
     </div>
 
-    <!-- offcanvas -->
 
     
 
